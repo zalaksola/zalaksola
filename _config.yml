@@ -1,3 +1,3 @@
 name: Zalak Solanki, Salesforce Consultant
 markdown: kramdown
-permalink: /blog/:2017/:month/:day/:title
+permalink: /blog/:year/:month/:day/:title
